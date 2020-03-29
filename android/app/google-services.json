@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309842222944",
+    "firebase_url": "https://bobappet.firebaseio.com",
+    "project_id": "bobappet",
+    "storage_bucket": "bobappet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309842222944:android:d9ef783955d00507914805",
+        "android_client_info": {
+          "package_name": "com.bobappet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309842222944-8h2dlh2r3j300d1eadf7ojt633fj21ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxGDq-kwPtZVTXnjF-Q8lvw3XjxoGDfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309842222944-8h2dlh2r3j300d1eadf7ojt633fj21ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
